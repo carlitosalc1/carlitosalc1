@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">💻 Software Developer | Full Stack<br><br>Software Developer focused on building web applications and business-oriented solutions.<br>Me interesa seguir fortaleciendo mis habilidades, aprender nuevas tecnologías y participar en proyectos que me permitan crear soluciones eficientes, escalables y de calidad.</p>
+<p data-importer="text" align="left">💻 Software Developer | Full Stack<br><br>Software Developer focused on building web applications and business-oriented solutions.<br>I'm interested in continuing to strengthen my skills, learning new technologies, and participating in projects that allow me to create efficient, scalable, and high-quality solutions..</p>
 
 ###
 
@@ -73,9 +73,11 @@
   </a>
   
   <!-- Botón de LinkedIn -->  
-<a href="https://linkedin.com/in/carlos-alberto-lopez-software" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<p>
+  <a href="https://linkedin.com/in/carlos-alberto-lopez-software" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 </div>
 
 ###
