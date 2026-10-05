@@ -76,6 +76,7 @@
 <a href="https://linkedin.com/in/carlos-alberto-lopez-software" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+</div>
 
 ###
 
