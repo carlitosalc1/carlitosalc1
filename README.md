@@ -81,16 +81,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carlosalbertolopez-dev/carlosalbertolopez-dev/pacman-output/pacman-contribution-graph.svg?game=pacman" alt="Pacman contribution graph" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carlosalbertolopez-dev/carlosalbertolopez-dev/pacman-output/pacman-contribution-graph.svg?game=pacman" alt="Pacman contribution graph" />
-</p>
-
 ###
 
 <picture data-importer="pacman">
