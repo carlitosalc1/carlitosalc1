@@ -69,8 +69,8 @@
 
 <div align="left">
 
-  <a href="TU_LINKEDIN">
-    <a href="https://www.linkedin.com/in/carlos-alberto-lopez-software/">
+  <a href="https://linkedin.com/in/carlos-alberto-lopez-software" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   <a href="mailto:carlos.a002.lc@gmail.com">
